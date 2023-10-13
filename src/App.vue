@@ -2,7 +2,7 @@
   <div className="todoapp">
     <h1 className="todoapp__title">todos</h1>
 
-    <h2 className="todoapp__userTitle">{getUserName()}</h2>
+    <h2 className="todoapp__userTitle">123</h2>
 
     <div className="todoapp__content">
       <Header
