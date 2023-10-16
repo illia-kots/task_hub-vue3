@@ -1,5 +1,15 @@
 # Task Hub Vue3
 
+[PREVIEW LINK](https://illia-kots.github.io/task_hub-vue3/)
+
+**Tech stack:**
+- VueJS
+- Vue Router
+- JavaScript
+- TypeScript
+- HTML
+- CSS/SCSS
+- Bulma
 
 **Project task:**
 
@@ -23,14 +33,3 @@
     - Save changes `onBlur`
 1. Save state of the APP to the `localStorage`
 1. Implement saving the todos in [the API](https://mate-academy.github.io/fe-students-api/).
-
-**Tech stack:**
- - VueJS
- - Vue Router
- - JavaScript
- - TypeScript
- - HTML
- - CSS/SCSS
- - Bulma
-
-[PREVIEW LINK](https://illia-kots.github.io/task_hub-vue3/)
